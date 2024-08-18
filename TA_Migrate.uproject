@@ -34,6 +34,10 @@
 		{
 			"Name": "Landmass",
 			"Enabled": true
+		},
+		{
+			"Name": "FieldSystemPlugin",
+			"Enabled": true
 		}
 	]
 }
